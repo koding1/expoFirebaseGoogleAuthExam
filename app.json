@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "google_auth_test_project",
+    "slug": "google_auth_test_project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "google_auth_test_project"
+}
